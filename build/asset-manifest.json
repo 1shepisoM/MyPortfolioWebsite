@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ba9b071.css",
+    "main.js": "/static/js/main.115ec062.js",
+    "static/media/TshepisoM.jpg": "/static/media/TshepisoM.b280e51901feb3075d03.jpg",
+    "static/media/Portfolio.png": "/static/media/Portfolio.950bbc552cca59b1c04d.png",
+    "static/media/AboutME.jpg": "/static/media/AboutME.d3686894f7ab8fe19627.jpg",
+    "static/media/TshepisoMarutlulle_CV.pdf": "/static/media/TshepisoMarutlulle_CV.2271d141d45e087ecd03.pdf",
+    "static/media/html_Logo.svg": "/static/media/html_Logo.eba3e919a9c1f2e4582f908e79d6f213.svg",
+    "static/media/css_Logo.svg": "/static/media/css_Logo.f1823d8606e24164d5ac03b4e9b80d85.svg",
+    "static/media/java_Logo.svg": "/static/media/java_Logo.3d1f1777f72c1a4ca3003a5378491322.svg",
+    "static/media/Github_Logo.svg": "/static/media/Github_Logo.865f6f4e09fdbbeb79fe551075c5eb45.svg",
+    "static/media/python_Logo.svg": "/static/media/python_Logo.4298525c028749eb4fa154f8f5bd1931.svg",
+    "static/media/javascript_Logo.svg": "/static/media/javascript_Logo.0866c81b3b841c647e23b8a5d991c312.svg",
+    "static/media/csharp_Logo.svg": "/static/media/csharp_Logo.263f79c821a39b0f21f400bc720b47d0.svg",
+    "static/media/Linkedin_Logo.svg": "/static/media/Linkedin_Logo.39cf260e5633cd198bd29309bf60097c.svg",
+    "static/media/react_Logo.svg": "/static/media/react_Logo.f57b6fbfa6088fd494c122d781342874.svg",
+    "static/media/Email_Logo.svg": "/static/media/Email_Logo.4b6cb073b07330979524d6b9f39e0520.svg",
+    "static/media/figma_Logo.svg": "/static/media/figma_Logo.c5b427ce8d1841c3bb716bc765233830.svg",
+    "index.html": "/index.html",
+    "static/media/Phone_Logo.svg": "/static/media/Phone_Logo.32e5498544bb4850fde68c7ea25b67bc.svg",
+    "main.3ba9b071.css.map": "/static/css/main.3ba9b071.css.map",
+    "main.115ec062.js.map": "/static/js/main.115ec062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba9b071.css",
+    "static/js/main.115ec062.js"
+  ]
+}
