@@ -1,0 +1,27 @@
+.footer {
+    background-color:#00bcd4;
+    color: #1e2538;
+    padding: 40px 20px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .footer-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  
+  .footer-copyrights {
+    font-size: 14px;
+    color: #1e2538;
+  }
+  

@@ -1,0 +1,59 @@
+#AboutPage {
+    padding: 2rem;
+    background-color: #2e3a59;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .about-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .highlight {
+    color: #00f0ff;
+  }
+  
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .about-image-card {
+    background-color: #00f0ff;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+  }
+  
+  .profile-image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    height: 260px;
+  }
+  
+  .about-info-card h3 {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .about-info-card p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #003a44;
+  }
+  
+  .about-description {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    max-width: 600px;
+  }
+  .h3{
+    color: #00f0ff;
+  }
